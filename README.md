@@ -3,5 +3,5 @@
 
 <b>Scratletics is a Math Game Which was developed in Scratch.<b>
 This Game has a Online Version which is located here: https://theofficialadministration.github.io/scratletics
-And it has a Windows x64 Edition: https://github.com/theofficialadministration/scratletics/releases/tag/Scratletics
-The MacOS edition will come out soon.
+And it has a Windows x64 Edition and MacOS edition Which is here: https://github.com/theofficialadministration/scratletics/releases/tag/Scratletics
+
